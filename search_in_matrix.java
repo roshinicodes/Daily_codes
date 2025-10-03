@@ -1,4 +1,4 @@
-// Problem- https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1
+//https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1
 class Solution {
     public static boolean matSearch(int mat[][], int x) {
         // your code here
